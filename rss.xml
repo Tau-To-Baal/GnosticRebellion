@@ -2,13 +2,27 @@
 <rss version="2.0">
         <channel>
 
-                <title>Example Feed</title>
-                <description>Insert witty or insightful remark here</description>
-                <link>http://example.org/</link>
-                <lastBuildDate>Sat, 13 Dec 2003 18:30:02 GMT</lastBuildDate>
-                <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+                <title>The Gnostic Rebellion</title>
+                <description>The show goes beyond traditional interviews, we present authentic dialogue covering the world of ideas; from self-awareness to reclaiming personal sovereignty. Each episode explores deeper perspectives on consciousness, truth, and the human experience. </description>
+                <link>https://rumble.com/c/c-7815822</link>
+                <lastBuildDate>Thu, 2 Apr 2026 20:23:02 GMT</lastBuildDate>
+                <managingEditor>GnosticRebellion@gmail.com (The Gnostic Rebellion)</managingEditor>
 
-                <item> REPLACE THIS WITH YOUR ITEMS ELEMENTS</item>
+                <item>
+		<title>Atom-Powered Robots Run Amok</title>
+		<link>http://example.org/2003/12/13/atom03</link>
+		<guid isPermaLink="false">urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</guid>
+		<pubDate>Sat, 13 Dec 2003 18:30:02 GMT</pubDate>
+		<description>Some text.</description>
+	</item>
+	<item>
+		<title>Neil Perry Gordon</title>
+		<link>https://rumble.com/v72f9z4-neil-perry-gordon-consciousness-reincarnation-and-unseen-architectures-in-h.html?e9s=src_v1_ucp_a</link>
+		<guid isPermaLink="false">urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344ef123</guid>
+		<pubDate>Sun, 30 Nov 2025 18:00:02 GMT</pubDate>
+		<description>Interview with Neil Perry Gordon</description>
+	</item>
+
 
         </channel>
 </rss>
